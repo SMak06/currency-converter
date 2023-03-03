@@ -5,6 +5,8 @@ body {
     align-items: center;
     min-height: 100vh;
     text-align: center;
+    background:linear-gradient(rgba(154, 194, 255, 0.567),transparent);
+    background-color:#f7fbff;
 }
 
 .inputField {
